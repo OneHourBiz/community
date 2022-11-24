@@ -12,7 +12,7 @@
   
 | Project | Links |
 |-|-|
-| [:tata: About](https://github.com/OneHourBiz/.github) | [Overview](https://github.com/OneHourBiz/.github/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/inbox/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/inbox/issues/3)&ensp;[New]() |
+| [:tada: About](https://github.com/OneHourBiz/.github) | [Overview](https://github.com/OneHourBiz/.github/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/inbox/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/inbox/issues/3)&ensp;[New]() |
 | [:sunglasses: Awesome](https://github.com/OneHourBiz/awesome) | [Overview](https://github.com/OneHourBiz/awesome/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/awesome/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/awesome/issues/3)&ensp;[New]() |
 | [:triangular_ruler: Blueprint](https://github.com/OneHourBiz/blueprint) |[Overview](https://github.com/OneHourBiz/blueprint/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/blueprint/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/blueprint/issues/3)&ensp;[New]() |
 | [:incoming_envelope: Newsletter](https://github.com/OneHourBiz/newsletter) | [Overview](https://github.com/OneHourBiz/newsletter/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/newsletter/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/newsletter/issues/3)&ensp;[New]() |
