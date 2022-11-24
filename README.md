@@ -12,11 +12,11 @@
   
 | Project | Links |
 |-|-|
-| [:inbox_tray: Inbox](https://github.com/OneHourBiz/inbox) | [README](https://github.com/OneHourBiz/inbox/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/inbox/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/inbox/issues/3)&ensp;[New]() |
-| [:sunglasses: Awesome](https://github.com/OneHourBiz/awesome) | [README](https://github.com/OneHourBiz/awesome/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/awesome/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/awesome/issues/3)&ensp;[New]() |
-| [:triangular_ruler: Blueprint](https://github.com/OneHourBiz/blueprint) |[README](https://github.com/OneHourBiz/blueprint/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/blueprint/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/blueprint/issues/3)&ensp;[New]() |
-| [:incoming_envelope: Newsletter](https://github.com/OneHourBiz/newsletter) | [README](https://github.com/OneHourBiz/newsletter/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/newsletter/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/newsletter/issues/3)&ensp;[New]() |
-| [:handshake: Services](https://github.com/OneHourBiz/services) | [README](https://github.com/OneHourBiz/services/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/services/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/services/issues/3)&ensp;[New]() |
-| [:business_suit_levitating: Job Board](https://github.com/OneHourBiz/jobs) | [README](https://github.com/OneHourBiz/jobs/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/jobs/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/jobs/issues/3)&ensp;[New]() |
+| [:tata: About](https://github.com/OneHourBiz/.github) | [Overview](https://github.com/OneHourBiz/.github/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/inbox/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/inbox/issues/3)&ensp;[New]() |
+| [:sunglasses: Awesome](https://github.com/OneHourBiz/awesome) | [Overview](https://github.com/OneHourBiz/awesome/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/awesome/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/awesome/issues/3)&ensp;[New]() |
+| [:triangular_ruler: Blueprint](https://github.com/OneHourBiz/blueprint) |[Overview](https://github.com/OneHourBiz/blueprint/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/blueprint/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/blueprint/issues/3)&ensp;[New]() |
+| [:incoming_envelope: Newsletter](https://github.com/OneHourBiz/newsletter) | [Overview](https://github.com/OneHourBiz/newsletter/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/newsletter/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/newsletter/issues/3)&ensp;[New]() |
+| [:handshake: Services](https://github.com/OneHourBiz/services) | [Overview](https://github.com/OneHourBiz/services/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/services/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/services/issues/3)&ensp;[New]() |
+| [:business_suit_levitating: Job Board](https://github.com/OneHourBiz/jobs) | [Overview](https://github.com/OneHourBiz/jobs/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/jobs/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/jobs/issues/3)&ensp;[New]() |
 
 </div>
